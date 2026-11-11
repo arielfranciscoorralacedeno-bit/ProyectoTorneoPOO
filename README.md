@@ -32,7 +32,7 @@ A continuación se muestra el diseño arquitectónico de clases que modela la so
 
 ---
 
-## 🛠️ Tecnologías y Requisitos
+##  Tecnologías y Requisitos
 * **Lenguaje:** Java (JDK 8 o superior recomendado)
 * **IDE:** Eclipse IDE / Visual Studio Code
 * **Control de Versiones:** Git & GitHub
