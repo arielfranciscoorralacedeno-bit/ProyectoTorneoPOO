@@ -15,7 +15,7 @@ Sistema de gestión de torneos deportivos desarrollado en Java bajo el patrón d
 ##  Diagrama de Clases (UML)
 A continuación se muestra el diseño arquitectónico de clases que modela la solución:
 
-![Diagrama de Clases POO] (diagrama.png)
+![Diagrama de Clases POO](diagrama.png)
 
 ### Descripción de los Paquetes y Clases:
 * **`modelo`**: Contiene las entidades principales del sistema:
